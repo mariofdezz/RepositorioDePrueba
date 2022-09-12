@@ -1,5 +1,7 @@
 # RepositorioDePrueba
 ## Repositorio de prueba
-*cursiva*
-**negrita**
-Prrimer repositorio Github
+*cursiva* _cursiva_
+**negrita** _negrita_
+
+_**negrita**_
+Primer repositorio Github
