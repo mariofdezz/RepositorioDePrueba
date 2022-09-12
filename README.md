@@ -3,5 +3,5 @@
 *cursiva* _cursiva_
 **negrita** _negrita_
 
-_**negrita**_
+**_negrita_**
 Primer repositorio Github
