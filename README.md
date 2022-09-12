@@ -31,3 +31,11 @@ jisjhdshhdshd  jhahssjasjash hsjhjhjajha sjasahjahhsja
 [link](http://www.google.com "Titulo opcional")
 
 ![16473838240127](https://github.com/mariofdezz/RepositorioDePrueba/blob/main/16473838240127.jpg "Imagen de 16473838240127")
+
+| Titulo | Titulo 2 | Titulo 3 |
+|------|:--------:|---------:|
+|Alberto | Apellido| Apellido 2|
+|Nombre2| Apellido 3 | Apellido 4|
+|Col 3 | está alineada| derecha|
+|col 2 | está alineada | centro |
+
